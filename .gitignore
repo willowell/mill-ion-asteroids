@@ -1,0 +1,10 @@
+# Ignore Scala Language Server files
+.bloop
+.metals
+.vscode
+
+# Ignore Mill Build Output
+out
+
+# Ignore miscellaneous file system stuff
+.DS_Store
